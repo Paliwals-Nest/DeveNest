@@ -9,7 +9,7 @@ import hashlib
 
 # Azure DPS details
 dps_endpoint = "https://<>dps.azure-devices.net"
-primary_key = "R9G4IiolUvmP+4r8G/3+VIEPJgzkH52Mb8YgMCee/q0="
+primary_key = ""
 
 # Define the expiration time for the SAS token (in seconds)
 token_ttl = 3600  # Adjust as needed
