@@ -1,5 +1,5 @@
 {
-  "slack_token" : "xoxb-115274062247-3598306161111-B6K62CkNFVW6vrI2aXUf3PbX",
-  "slack_signing_secret": "59a9b07c7e232cc314f5de4e3ac6726b"
+  "slack_token" : "",
+  "slack_signing_secret": ""
 
 }
